@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/78306f19-66fe-4d8f-ae48-0605074d2c55)# Bài tập 6: Hệ quản trị CSDL
+# Bài tập 6: Hệ quản trị CSDL
 Chủ đề: Câu lệnh Select
 Yêu cầu bài tập: 
 Cho file sv_tnut.sql (1.6MB)
